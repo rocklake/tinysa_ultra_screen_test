@@ -1,0 +1,1 @@
+color 0 0x808080color 1 0x808080restart 10menu 10 1 2
