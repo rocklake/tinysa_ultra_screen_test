@@ -1,0 +1,1 @@
+color 0 0x0000F8color 1 0x0000F8restart 10menu 10 1 2
